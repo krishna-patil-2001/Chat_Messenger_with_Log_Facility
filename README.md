@@ -31,7 +31,7 @@ Learning Outcomes
  * Implementation of logging mechanisms in applications.
  * Understanding of platform-independent communication in java.
  * Foundation of building scalable chat/messaging applications.
- *
+ 
  
   
 
